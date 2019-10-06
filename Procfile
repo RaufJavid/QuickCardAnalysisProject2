@@ -1,0 +1,1 @@
+web: gunicorn QuickCardAnalysisProject.wsgi --log-file -
