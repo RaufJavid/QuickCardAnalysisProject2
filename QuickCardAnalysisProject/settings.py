@@ -26,7 +26,7 @@ SECRET_KEY = '^p6y=6ku=w1^ea9(nd^9*5*q5me7@)1f3l$8n$4de5dk)p8yy*'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['enigmatic-badlands-46940.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
